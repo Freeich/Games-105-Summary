@@ -7,7 +7,7 @@
 ### 叉乘公式
 
 - <img src="assets/image-20250803211329211.png" alt="image-20250803211329211" style="zoom:50%;" />
-- <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250803211505140.png" alt="image-20250803211505140" style="zoom:50%;" />
+- <img src="assets/image-20250803211505140.png" alt="image-20250803211505140" style="zoom:50%;" />
 - 不满足结合律，叉乘顺序是不能变的
 - ![image-20250803211808420](assets/image-20250803211808420.png)
 - 叉乘是0说明，俩向量平行
@@ -110,7 +110,7 @@
 - 四元数的性质
   - 不满足交换律，满足结合律
   - <img src="assets/image-20250803234812902.png" alt="image-20250803234812902" style="zoom:33%;" />
-  - <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250803234829968.png" alt="image-20250803234829968" style="zoom:33%;" />
+  - <img src="assets/image-20250803234829968.png" alt="image-20250803234829968" style="zoom:33%;" />
   - ![image-20250803234919281](assets/image-20250803234919281.png)
 - 四元数的使用
   - 前后夹，前正后共轭，相当于沿着轴正方向正旋转theta/2，再沿着轴负方向负旋转theta/2。
